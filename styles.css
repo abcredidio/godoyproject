@@ -1,0 +1,197 @@
+body {
+  text-align: center;
+  font-family: "Open Sans";
+  color: rgb(124, 96, 78);
+  font-size: 1.5rem;
+  background-color: rgb(221, 214, 206);
+}
+
+h2{
+  color: rgb(124, 96, 78);
+  font-weight: 700;
+  font-weight: bold;
+  padding-bottom: 3.5%;
+}
+
+h3{
+  color: rgb(124, 96, 78);
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding-bottom: 3.5%;
+}
+h4{
+  color: white;
+  font-weight: 700;
+  font-weight: bold;
+  padding-bottom: 3.5%;
+}
+h5{
+  color: rgb(221, 214, 206);
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding-bottom: 3.5%;
+}
+h6{
+  text-align: center;
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
+  color: rgb(63, 29, 15);
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+a{
+  color: rgb(124, 96, 78);
+}
+
+.top{
+  background-color: rgb(221, 214, 206);
+  text-align: center;
+  line-height: 1.5;
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(247, 131, 141);
+  text-shadow: 0 1px white;
+}
+
+.texttop{
+  background-color: rgb(221, 214, 206);
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.h1-span-01{
+  color: rgb(124, 96, 78);
+  font-weight: bold;
+}
+.h1-span-02{
+  color: rgb(247, 131, 141);
+  font-weight: bold;
+}
+.h1-span-03{
+  color: rgb(247, 131, 141);
+  font-weight: bold;
+  background-color: rgb(210, 205, 195);
+}
+.h6-span-01{
+  background-color: #F5C6A5;
+}
+
+.btn-sim{
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  background-color: rgb(221, 214, 206);
+  color: black;
+  font-weight: bold;
+  width: 50%;
+
+}
+.btn-sim:hover{
+  background-color: rgb(247, 131, 141);
+  color: white;
+}
+
+
+.p1-span-01{
+ background-color: rgb(247, 131, 141);
+ color: white;
+}
+
+.navbar{
+  background-color: rgb(221, 214, 206);
+  color: rgb(124, 96, 78);
+  font-weight: bold;
+}
+
+.middle{
+  background-color: white;
+  line-height: 1.5;
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
+}
+
+.textmiddle{
+  font-size: 1.1rem;
+  padding-bottom: 2.5%;
+}
+
+.midfoto{
+  width: 25%;
+}
+
+.cicle{
+    background-color: rgb(124, 96, 78);
+    line-height: 1.5;
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+    color: white;
+}
+
+.textcicle{
+  color: rgb(221, 214, 206);
+  font-size: 1.1rem;
+}
+
+.ciclefoto{
+  width: 15%;
+}
+.ciclofoto{
+  width: 50%;
+}
+.learn{
+    background-color: rgb(255, 243, 243);
+    line-height: 1.5;
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+}
+.textlearn{
+  background-color: rgb(255, 243, 243);
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  font-weight: bold;
+  font-style: normal;
+}
+.listlight{
+  color: rgb(216, 155, 134);
+  padding-bottom: 2.5%;
+  text-align: left;
+}
+.listdark{
+  color: rgb(135, 90, 83);
+  padding-bottom: 2.5%;
+  text-align: left;
+}
+
+.lowbit{
+  font-size: 0.9rem;
+
+}
+
+.section1 {
+  background-color: rgb(221, 214, 206);
+}
+
+.section2 {
+  background-color: rgb(255, 255, 255);
+}
+
+.section3 {
+  background-color: rgb(124, 96, 78);
+}
+
+.section4 {
+  background-color: rgb(255, 243, 243);
+}
+
+.section5 {
+  background-color: rgb(221, 214, 206);
+}
